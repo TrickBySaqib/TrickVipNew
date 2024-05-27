@@ -73,8 +73,8 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="↺ ", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/ll_mxni_ll"),
-            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/ll_BAD_BBY_ll"),
+            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/OWNER_TBS"),
+            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/STYLISH_FOUT_CHANNEL"),
         ],
         [
             InlineKeyboardButton(
@@ -115,12 +115,12 @@ def queuemarkup(_, vidid, chat_id):
             InlineKeyboardButton(text="↺ ", callback_data=f"ADMIN Replay|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/ll_mxni_ll"),
-            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/ll_BAD_BBY_ll"),
+            InlineKeyboardButton(text="𐏓 ⃪⃝🇺🇸 ꯭𝗗ᴇᴠɪ𝗟 ꯭༎ࠫ⛧‌", url="https://t.me/OWNER_TBS"),
+            InlineKeyboardButton(text="⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂⎯꯭ ꯭̽🌸", url="https://t.me/STYLISH_FOUT_CHANNEL"),
         ],
         [
             InlineKeyboardButton(
-                text="๏ ᴍᴏʀᴇ ๏", url="https://t.me/THE_PUNJABI_BANDE",
+                text="๏ ᴍᴏʀᴇ ๏", url="https://t.me/OWNER_TBS",
                 
             ),
         ],
