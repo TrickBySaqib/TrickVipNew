@@ -41,10 +41,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_BAD_MUNDA_ll")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/OWNER_TBS")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/SaqibADM")
             ]
             ]
         ),
