@@ -1,4 +1,4 @@
-from BADMUSIC import app 
+from PBXMUSIC import app 
 import asyncio
 import random
 from pyrogram import Client, filters
