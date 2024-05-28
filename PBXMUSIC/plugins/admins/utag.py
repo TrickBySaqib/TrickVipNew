@@ -1,5 +1,5 @@
 import asyncio
-from BADMUSIC import app
+from PBXMUSIC import app
 from pyrogram import filters
 
 
