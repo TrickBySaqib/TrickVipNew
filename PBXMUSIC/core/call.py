@@ -628,4 +628,3 @@ class Call(PyTgCalls):
             await self.play(client, update.chat_id)
 
 
-PBX = Call()
